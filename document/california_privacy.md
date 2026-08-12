@@ -4,13 +4,13 @@
 **Effective:** 2026-07-07
 **Last Updated:** 2026-07-07
 
-This notice supplements the KingPool Privacy Policy for California residents and is provided under the California Consumer Privacy Act as amended by the California Privacy Rights Act ("CCPA/CPRA"). Capitalized terms have the meanings given in the Privacy Policy.
+This notice supplements the Disco Privacy Policy for California residents and is provided under the California Consumer Privacy Act as amended by the California Privacy Rights Act ("CCPA/CPRA"). Capitalized terms have the meanings given in the Privacy Policy.
 
 ## 1. Categories of Personal Information We Collect
 
 In the preceding 12 months we have collected the following categories of personal information:
 
-| Category                         | Examples on KingPool                                                               |
+| Category                         | Examples on Disco                                                               |
 | -------------------------------- | ---------------------------------------------------------------------------------- |
 | **Identifiers**                  | Name, username, email address, phone number, account ID                            |
 | **Profile & content**            | Profile photo, bio, favorite teams, posts, comments, messages                      |
@@ -27,7 +27,7 @@ We use personal information to operate and personalize the Service; connect you 
 
 ## 3. No Sale of Personal Information
 
-**KingPool does not sell your personal information, and does not share it for cross-context behavioral advertising**, as those terms are defined by the CCPA/CPRA. We have not done so in the preceding 12 months. We honor Global Privacy Control (GPC) signals as an opt-out preference should our practices ever change.
+**Disco does not sell your personal information, and does not share it for cross-context behavioral advertising**, as those terms are defined by the CCPA/CPRA. We have not done so in the preceding 12 months. We honor Global Privacy Control (GPC) signals as an opt-out preference should our practices ever change.
 
 ## 4. Your Rights
 
@@ -42,7 +42,7 @@ As a California resident, you have the right to:
 
 ## 5. How to Exercise Your Rights
 
-Email `support@kingpool.app` from the email address on your account, or use the in-app tools (Settings → Privacy for data export and account deletion; Settings → Legal → Manage Tracking & Analytics for analytics preferences). We verify requests by matching them to your account and respond within 45 days, extendable once by a further 45 days where reasonably necessary. You may use an authorized agent with signed written permission.
+Email `support@godisco.app` from the email address on your account, or use the in-app tools (Settings → Privacy for data export and account deletion; Settings → Legal → Manage Tracking & Analytics for analytics preferences). We verify requests by matching them to your account and respond within 45 days, extendable once by a further 45 days where reasonably necessary. You may use an authorized agent with signed written permission.
 
 ## 6. Retention
 
