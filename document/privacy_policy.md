@@ -2,7 +2,7 @@
 
 **Effective Date:** September 25, 2025
 
-KingPool is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share your information.
+Disco is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and share your information.
 
 ## 1. Information We Collect
 We may collect the following types of information:
@@ -23,7 +23,7 @@ We use the information we collect to:
 We may share your data with:
 - **Businesses**: Anonymized or aggregated data, including search data, may be shared with partners for marketing campaigns, customer engagement, or service improvements.
 - **Service Providers**: Third parties that assist with platform operations, such as analytics, hosting, or customer support, under strict confidentiality agreements.
-- **Legal Authorities**: When required by law, to comply with legal processes, or to protect the rights, safety, or property of KingPool, its users, or the public.
+- **Legal Authorities**: When required by law, to comply with legal processes, or to protect the rights, safety, or property of Disco, its users, or the public.
 
 ## 4. Data Retention
 We retain your information, including search data, only for as long as necessary to provide our services, fulfill the purposes outlined in this policy, or comply with legal obligations. Search data is typically retained for up to 12 months for personalization and analytics purposes, after which it is anonymized or deleted unless required by law.
@@ -43,4 +43,4 @@ We implement industry-standard measures, such as encryption and access controls,
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically.
 
 ## 8. Contact Us
-If you have questions about this Privacy Policy or how your data is handled, please contact us at privacy@kingpool.app.
+If you have questions about this Privacy Policy or how your data is handled, please contact us at support@godisco.app.
