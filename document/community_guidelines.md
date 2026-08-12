@@ -1,10 +1,10 @@
-# KingPool Community Guidelines
+# Disco Community Guidelines
 
 **Version:** 1.0.0
 **Effective:** 2026-07-07
 **Last Updated:** 2026-07-07
 
-KingPool is where fans meet up, check in, and talk gameday. These Guidelines apply to everything you post or share on the Service — profiles, display names, photos, posts, comments, chat and crew messages, check-ins, and venue reviews. By using KingPool you agree to follow them, alongside our Terms of Service.
+Disco is where fans meet up, check in, and talk gameday. These Guidelines apply to everything you post or share on the Service — profiles, display names, photos, posts, comments, chat and crew messages, check-ins, and venue reviews. By using Disco you agree to follow them, alongside our Terms of Service.
 
 ## 1. Respect Other Fans
 
@@ -33,7 +33,7 @@ Check in honestly. Do not spoof your location, check in on someone else's behalf
 
 ## 5. Reporting and Blocking
 
-Every profile, post, and message in KingPool can be **reported** from the app, and any user can be **blocked** from their profile. Blocking immediately stops that user from contacting you or seeing your activity. Reports are reviewed promptly, and we remove content that violates these Guidelines. You can also reach us any time at `support@kingpool.app`.
+Every profile, post, and message in Disco can be **reported** from the app, and any user can be **blocked** from their profile. Blocking immediately stops that user from contacting you or seeing your activity. Reports are reviewed promptly, and we remove content that violates these Guidelines. You can also reach us any time at `support@godisco.app`.
 
 ## 6. Enforcement
 
@@ -49,10 +49,10 @@ Severe violations — threats of violence, child-safety violations, coordinated 
 
 ## 7. Appeals
 
-If you believe we got it wrong, appeal by contacting `support@kingpool.app` from the email on your account within 30 days of the enforcement action. Tell us what happened; a human will review and reply.
+If you believe we got it wrong, appeal by contacting `support@godisco.app` from the email on your account within 30 days of the enforcement action. Tell us what happened; a human will review and reply.
 
 ## 8. Changes
 
 We may update these Guidelines as the community grows. Material changes will be posted in the app with an updated effective date.
 
-Thanks for keeping KingPool a place every fan wants to be on gameday.
+Thanks for keeping Disco a place every fan wants to be on gameday.
