@@ -76,7 +76,7 @@ We use industry-standard measures, such as encryption in transit and access cont
 Disco is not intended for anyone under 18. We do not knowingly collect information from anyone under 18, and we remove accounts we find belong to someone under 18.
 
 ## 8. Changes to Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date, and we will tell you in the app about significant changes.
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this policy periodically.
 
 ## 9. Contact Us
 If you have questions about this Privacy Policy or how your data is handled, contact us at [support@godisco.app](mailto:support@godisco.app).
